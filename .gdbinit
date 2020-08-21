@@ -1,6 +1,6 @@
-source /home/ctf/gef/gef.py
-source /home/ctf/Pwngdb/pwngdb.py
-source /home/ctf/Pwngdb/angelheap/gdbinit.py
+source /root/gef/gef.py
+source /root/Pwngdb/pwngdb.py
+source /root/Pwngdb/angelheap/gdbinit.py
 
 define hook-run
 python
